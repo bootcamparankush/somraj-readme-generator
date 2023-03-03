@@ -1,4 +1,4 @@
-# test
+# Somraj Readme Generator
 
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
@@ -13,27 +13,27 @@
   * [Credits](#credits)
 
   ## Description
-  test
+  Readme Generator for software developers
 
   ## Installation
-  test
+  Download and install npm, node.js, fs and inquirer
 
   ## Usage
-  test
+  run the index.js and answer prompts
 
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
 
   ## Contributing
-  stest
+  by using this readme for their projects
 
   ## Tests
-  test
+  Nothing yet
 
   ## Questions
   Have questions about this project?  
-  GitHub: https://github.com/test  
-  Email: test
+  GitHub: https://github.com/bootcamparankush  
+  Email: parankush.somraj@gmail.com
 
   ## Credits
-  test
+  Parankush Somraj
