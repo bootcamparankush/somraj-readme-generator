@@ -30,6 +30,5 @@ Have questions about this project?
 GitHub: https://github.com/bootcamparankush  
 Email: parankush.somraj@gmail.com
 
-## Credits
-  Parankush Somraj. Nathan Shown, Shaminder Singh and couple other bootcamp teammates 
-
+  ## Credits
+  Parankush Somraj
