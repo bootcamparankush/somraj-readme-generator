@@ -27,7 +27,7 @@ Once software is downloaded and Node packages are initialized, you can get start
 
 
   ## Link to recorded Demo
-  Watch [this demo] (https://www.youtube.com/watch?v=2rBmYoE8Dgk) to see the README Generator in action.
+  Watch [this demo](https://www.youtube.com/watch?v=2rBmYoE8Dgk) to see the README Generator in action.
   
 
   ## Tests
