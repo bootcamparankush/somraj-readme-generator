@@ -23,11 +23,12 @@ GitBash
 Node.js
 
   ## Usage
-  Once software is downloaded and Node packages are initialized, you can get started! Within the directory for this project, initialize prompts using the command "node index.js". After that, simply enter the necessary information for your project! A new README file will be generated and placed into the 'utils' folder.
+Once software is downloaded and Node packages are initialized, you can get started! Within the directory for this project, initialize prompts using the command "node index.js". After that, simply enter the necessary information for your project! A new README file will be generated and placed into the 'utils' folder.
 
 
   ## Link to recorded Demo
-  Watch this demo to see the README Generator in action.
+  Watch [this demo] (https://www.youtube.com/watch?v=2rBmYoE8Dgk) to see the README Generator in action.
+  
 
   ## Tests
   test
