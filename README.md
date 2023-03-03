@@ -1,5 +1,4 @@
 # Somraj Readme Generator
-
   
 
   ## Table of Contents
@@ -23,7 +22,7 @@ Node.js
 Once software is downloaded and Node packages are initialized, you can get started! Within the directory for this project, initialize prompts using the command "node index.js". After that, simply enter the necessary information for your project! A new README file will be generated and placed into the 'utils' folder.
 
 ## Demonstration
- Watch [this demo](https://www.youtube.com/watch?v=2rBmYoE8Dgk) to see the README Generator in action.
+ Watch [this demo](https://www.youtube.com/watch?v=2rBmYoE8Dgk) to see the README Generator working in nodejs command line.
   
 
 ## Questions
